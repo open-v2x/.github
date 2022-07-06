@@ -1,5 +1,5 @@
 ## Welcome to OpenV2X's GitHub page!
 
-![](images/Openv2x_logo.svg)
+![](images/openv2x.png)
 
 An open source project for Roadside Open Infrastructure (RSOI) in 5G/6G Cooperative Vehicle Infrastructure System (CVIS)
