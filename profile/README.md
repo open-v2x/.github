@@ -13,3 +13,4 @@ References:
 - [quick_start_guide](https://github.com/open-v2x/docs/blob/albany/src/v2x-1.0.126-quick-start.md)
 - [howto_raise_issue](https://github.com/open-v2x/docs/blob/albany/src/v2x_contribution.md)
 - Community governance: <https://github.com/open-v2x/governance>
+- TSC meeting: <https://github.com/open-v2x/governance/wiki/Technical-Steering-Committee-Weekly-Meeting>
