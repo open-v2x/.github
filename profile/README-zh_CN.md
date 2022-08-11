@@ -11,8 +11,8 @@
 参考:
 
 - 官方网站入口: <https://openv2x.org>
-- [快速安装指南](https://github.com/open-v2x/docs/blob/albany/src/v2x-1.0.126-quick-install.md)
-- [快速上手指南](https://github.com/open-v2x/docs/blob/albany/src/v2x-1.0.126-quick-start.md)
+- [快速安装指南](https://github.com/open-v2x/docs/blob/albany/src/v2x-quick-install.md)
+- [快速上手指南](https://github.com/open-v2x/docs/blob/albany/src/v2x-quick-start.md)
 - [如何提出问题](https://github.com/open-v2x/docs/blob/albany/src/v2x_contribution.md)
 - 问题看板: <https://github.com/orgs/open-v2x/projects/3>
 - 社区指南: <https://github.com/open-v2x/governance/blob/master/reference/community-guide.md>
