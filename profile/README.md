@@ -12,8 +12,8 @@ Mirror: <https://gitee.com/open-v2x/>
 References:
 
 - Official web portal: <https://openv2x.org>
-- [quick_install_guide](https://github.com/open-v2x/docs/blob/albany/src/v2x-1.0.126-quick-install.md)
-- [quick_start_guide](https://github.com/open-v2x/docs/blob/albany/src/v2x-1.0.126-quick-start.md)
+- [quick_install_guide](https://github.com/open-v2x/docs/blob/albany/src/v2x-quick-install.md)
+- [quick_start_guide](https://github.com/open-v2x/docs/blob/albany/src/v2x-quick-start.md)
 - [howto_raise_issue](https://github.com/open-v2x/docs/blob/albany/src/v2x_contribution.md)
 - Issue Board: <https://github.com/orgs/open-v2x/projects/3>
 - Community guide: <https://github.com/open-v2x/governance/blob/master/reference/community-guide.md>
