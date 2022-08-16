@@ -15,6 +15,7 @@ References:
 - [quick_install_guide](https://github.com/open-v2x/docs/blob/albany/src/v2x-quick-install.md)
 - [quick_start_guide](https://github.com/open-v2x/docs/blob/albany/src/v2x-quick-start.md)
 - [howto_raise_issue](https://github.com/open-v2x/docs/blob/albany/src/v2x_contribution.md)
+- [developer_guide](/profile/developer_guide.md)
 - Issue Board: <https://github.com/orgs/open-v2x/projects/3>
 - Community guide: <https://github.com/open-v2x/governance/blob/master/reference/community-guide.md>
 - TSC meeting:
