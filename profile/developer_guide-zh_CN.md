@@ -24,3 +24,9 @@
 ## 基础组件
 
 更多关于**基础组件**的详细信息，请参阅[这个介绍](https://github.com/open-v2x/docs/blob/master/src/v2x_basic_components.md)。
+
+## 开发建议
+
+如果您想专注于某一特定模块的开发，我们建议您通过我们的
+[all-in-one 安装脚本](https://github.com/open-v2x/docs/blob/albany/src/v2x-quick-install.md)来部署，然后通过
+`docker stop <module> & docker rm <module>` 命令暂停和删除对应模块的容器，最后用您自己的开发的程序来运行。
