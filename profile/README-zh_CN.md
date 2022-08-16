@@ -14,7 +14,7 @@
 - [快速安装指南](https://github.com/open-v2x/docs/blob/albany/src/v2x-quick-install.md)
 - [快速上手指南](https://github.com/open-v2x/docs/blob/albany/src/v2x-quick-start.md)
 - [如何提出问题](https://github.com/open-v2x/docs/blob/albany/src/v2x_contribution.md)
-- [开发者指南](/profile/developer_guide-zh_CN.md)
+- [开发者指南](https://github.com/open-v2x/docs/blob/matser/src/v2x_developer_guide-zh_CN.md)
 - 问题看板: <https://github.com/orgs/open-v2x/projects/3>
 - 社区指南: <https://github.com/open-v2x/governance/blob/master/reference/community-guide.md>
 - TSC 会议: <https://github.com/open-v2x/governance/wiki/Technical-Steering-Committee-Weekly-Meeting>
