@@ -48,3 +48,4 @@ OpenV2X 希望做到如下“目标”：
 - 问题看板: <https://github.com/orgs/open-v2x/projects/3>
 - 社区指南: <https://github.com/open-v2x/governance/blob/master/reference/community-guide.md>
 - TSC 会议: <https://github.com/open-v2x/governance/wiki/Technical-Steering-Committee-Weekly-Meeting>
+- 代码统计: <http://101.132.176.98:3030/>
