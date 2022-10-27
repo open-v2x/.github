@@ -60,3 +60,4 @@ The "goals" of OpenV2X:
 - Community guide: <https://github.com/open-v2x/governance/blob/master/reference/community-guide.md>
 - TSC meeting:
   <https://github.com/open-v2x/governance/wiki/Technical-Steering-Committee-Weekly-Meeting>
+- Code statistics: <http://101.132.176.98:3030/>
