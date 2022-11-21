@@ -54,8 +54,8 @@ The "goals" of OpenV2X:
 - Official web portal: <https://openv2x.org>
 - [quick_install_guide](https://github.com/open-v2x/docs/blob/beihai/docs/v2x-quick-install.md)
 - [quick_start_guide](https://github.com/open-v2x/docs/blob/beihai/docs/v2x-quick-start.md)
-- [howto_raise_issue](https://github.com/open-v2x/docs/blob/beihai/docs/v2x_contribution.md)
-- [developer_guide](https://github.com/open-v2x/docs/blob/beihai/docs/v2x_developer_guide.md)
+- [howto_raise_issue](https://github.com/open-v2x/docs/blob/master/docs/v2x_contribution.md)
+- [developer_guide](https://github.com/open-v2x/docs/blob/master/docs/v2x_developer_guide.md)
 - Issue Board: <https://github.com/orgs/open-v2x/projects/3>
 - Community guide: <https://github.com/open-v2x/governance/blob/master/reference/community-guide.md>
 - TSC meeting:
